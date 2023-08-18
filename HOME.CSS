@@ -13,6 +13,16 @@
     
     
 }
+li:hover{
+	background-color: rgb(220, 20, 60); 
+	color: black;
+	border:none; 
+	cursor: pointer;
+	transition:0s;
+	
+    height: 1cm;
+    border-radius: 5px;
+}
 .navbar li{
     list-style: none;
     margin: 0 20px;
@@ -144,6 +154,7 @@ font-size: 30px;
     height: 200px;
     width: 13cm;
     margin-top: 3.0cm;
+    border: none;
 }
 .Admistration2{
     background-color: rgb(0, 132, 255);
@@ -152,8 +163,13 @@ font-size: 30px;
     height: 200px;
     width: 13cm;
     margin-top: 0cm;
+    border: none;
     
     
+}
+.home{
+    font-family: "arial black";
+    font-size: 20px;
 }
 .Admistration3{
     background-color: #0084ff;
@@ -162,6 +178,7 @@ font-size: 30px;
     height: 200px;
     width: 13cm;
     margin-top: 0cm;
+    border: none;
     
     
 }
@@ -177,12 +194,13 @@ font-size: 30px;
     height: 220px;
     width: 500px;
     border-radius: 15px;
+    margin-left: 0.5cm;
 }
 .boys-dom{
     height: 220px;
     width: 500px;
     border-radius: 15px;
-    margin-left: 20cm;
+    margin-left: 18cm;
     margin-top: 0cm;
 }
 .BOYS{
@@ -251,6 +269,7 @@ font-size: 30px;
     left: 0;
     background:rgb(255, 244, 147);
     z-index: -1;
+    border:none;
     transition: -1.0s;
     border-radius: 7.1px;
    
@@ -260,4 +279,10 @@ font-size: 30px;
 }
 .footer-last{
     background: linear-gradient(#0084ff,#0084ff00);
+}
+.SUMMER{
+    height: 420px;
+    width: 420px;
+    border-radius: 15px;
+    margin-left: 12cm;
 }

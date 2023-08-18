@@ -1,0 +1,92 @@
+.navbar{
+    height: 3.5cm;
+    width: 35.9cm;
+    background-color: rgb(0, 140, 255);
+    margin-top: -0.5cm;
+    margin-left: -0.2cm;
+    
+    
+}
+
+.navbar ul{
+    display:inline-flex;
+    
+    
+}
+.navbar li{
+    list-style: none;
+    margin: 0 20px;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: -2cm;
+    margin-left: 150px;
+
+}
+.home{
+    font-family: "arial black";
+    font-size: 20px;
+}
+.logo{
+    height: 90px;
+    width: 90px;
+    margin-top: 0.5cm;
+}
+.ABURA{
+    margin-top: -2cm;
+    margin-left: 2.5cm;
+    font-family: "Arial Black";
+    color: antiquewhite;
+}
+.body{
+    background:linear-gradient(#008cff,#006eff48);
+    background-repeat: no-repeat;
+    height: 38cm;
+}
+#admis{
+    text-align: center;
+    font-family: "Cooper Black";
+    color: white;
+    margin-top: 0.6cm;
+    
+}
+.course{
+    background:linear-gradient(#6ac6f1af,#fff786);
+    color: black;
+    border-radius: 6px;
+    border: none;
+    font-family: "Cooper Black";
+    font-size: 23px;
+    color: white;
+    height: 15cm;
+    margin-left: 1cm;
+
+}
+li:hover{
+	background-color: rgb(220, 20, 60); 
+	color: black;
+	border:none; 
+	cursor: pointer;
+	transition:0s;
+    height: 1cm;
+    border-radius: 5px;
+}
+.course1{
+    background:linear-gradient(#40b2e7d3,#fff389b6);
+    color: black;
+    border-radius: none;
+    border: none;
+    font-family: "Cooper Black";
+    font-size: 23px;
+    color: white;
+    height: 12cm;
+    width: 10cm;
+    margin-left: 1cm;
+    margin-top: 2cm;
+    
+}
+.list{
+    text-align: center;
+    font-family: "arial black";
+    color: rgb(0, 0, 0);
+}

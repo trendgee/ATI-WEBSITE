@@ -1,0 +1,173 @@
+.navbar{
+    height: 3.5cm;
+    width: 35.9cm;
+    background-color: rgb(0, 140, 255);
+    margin-top: -0.5cm;
+    margin-left: -0.2cm;
+    
+    
+}
+
+.navbar ul{
+    display:inline-flex;
+    
+    
+}
+.navbar li{
+    list-style: none;
+    margin: 0 20px;
+    color: aliceblue;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: -2cm;
+    margin-left: 150px;
+
+}
+.home{
+    font-family: "arial black";
+    font-size: 20px;
+}
+.logo{
+    height: 90px;
+    width: 90px;
+    margin-top: 0.5cm;
+}
+.ABURA{
+    margin-top: -2cm;
+    margin-left: 2.5cm;
+    font-family: "Arial Black";
+    color: antiquewhite;
+}
+
+.body h1 p{
+    font-size: 50px;
+    color: navy;
+    margin-left: 1000px;
+}
+.body h2{
+    color:rgb(255, 244, 142);
+    margin-left: 23.5cm;
+}
+
+#admis{
+    text-align: center;
+    font-family: "Cooper Black";
+    color: white;
+    margin-top: 0.6cm;
+    
+}
+.body{
+    background:linear-gradient(#008cff,#006eff48);
+    background-repeat: no-repeat;
+    height: 30cm;
+}
+.tit{
+    background-color: #008cff;
+    font-family: "arial black";
+    border-radius: 6px;
+    margin-top: -1.8cm;
+    font-size: 18px;
+    font: bolder;
+    color: white;
+}
+.admin{
+    width: 15cm;
+    height: 24cm;
+    border: none;
+    margin-left: 10.5cm;
+    border-radius: 15px;
+}
+.stu-name{
+    text-align: left;
+    font-family: "arial black";
+}
+.name-box{
+    width: 10cm;
+    height: 0.8cm;
+    border:3px solid #008cff;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 5px;
+}
+.name-box1{
+    width: 10cm;
+    height: 0.8cm;
+    border:3px solid #008cff;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 1.9cm;
+}
+.name-box2{
+    width: 1cm;
+    height: 0.8cm;
+    border:3px solid #008cff;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: -4cm;
+}
+.name-box5{
+    width: 4cm;
+    height: 0.8cm;
+    border:3px solid #008cff;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 0cm;
+}
+li:hover{
+	background-color: rgb(220, 20, 60); 
+	color: black;
+	border:none; 
+	cursor: pointer;
+	transition:0s;
+	
+    height: 1cm;
+    border-radius: 5px;
+}
+.Submit:hover{
+	background-color: rgb(220, 20, 60); 
+	color: black;
+	border:3px solid crimson; 
+	cursor: pointer;
+	transition:0s;
+	
+    height: 1cm;
+    border-radius: 5px;
+}
+.name-box4{
+    width: 4cm;
+    height: 0.8cm;
+    border:3px solid #008cff;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 0cm;
+}
+.name-box3{
+    width: 3cm;
+    height: 0.8cm;
+    border:3px solid #008cff;
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 0.2cm;
+}
+.ghana-code-box{
+    margin-top: -1.34cm;
+    margin-left: 2cm;
+}
+.Submit{
+    background-color: #008cff;
+    border-color: #008cff;
+    color: white;
+    font-size: 23px;
+    font-family: "segeo print";
+    font-weight: bolder;
+    border-radius: 5px;
+    margin-left: 17cm;
+    margin-top: -4cm;
+    width: 3cm;
+    height: 1cm;
+}
